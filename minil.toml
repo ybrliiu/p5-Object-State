@@ -1,0 +1,4 @@
+name = "Object-State"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
